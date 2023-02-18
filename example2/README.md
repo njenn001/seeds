@@ -1,0 +1,29 @@
+# Example 2 
+
+A factorial function used to help hone programming principles. 
+
+## Principles
+
+    - Program Structure 
+    - Documentation
+    - Naming Conventions
+    - Functions 
+    - Scoping
+    - Variables
+    - Input / Output 
+    - Looping
+    - Execution
+
+## Usage
+
+Browse to the following direction: 
+
+```
+C:\cygwin64\home\user\repos\seeds\example2
+```
+
+From within the cygwin64 terminal, run the following command: 
+
+```
+clisp main.lisp
+```

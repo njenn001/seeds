@@ -14,9 +14,15 @@ folder for more information.
 
 ### Principles 
 
+    - Program Structure 
+    - Documentation 
+    - Naming Conventions 
     - Functions
+    - Scoping
+    - Variables 
+    - Condition Statements
+    - Input / Output 
     - Objects 
-    - Input & Output
     - Program Structure 
     - Execution  
 

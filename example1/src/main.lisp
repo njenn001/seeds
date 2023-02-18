@@ -1,3 +1,7 @@
+"Variables:"
+(defvar x 0)
+(defvar y 0)
+
 "Defines the sum function."
 (defun sum (num1 num2)
 
@@ -6,21 +10,9 @@
 
 )
 
-"Defines the main function."
-(defun main ()
+"Defines the display function."
+(defun display ()
 
-    "Defines the X and Y variables."
-    (defvar x)
-    (defvar y)
-
-    "Sets the values of X & Y based on used input."
-
-    (format t "Enter the value of x: " )
-    (setq x(read))
-    (format t "Enter the value of y: " )
-    (setq y(read))
-
-    "New line function"
     (terpri)
     "Displays the value of X."
     (format t "X: ~5f" x)
@@ -28,9 +20,35 @@
     (terpri)
     "Displays the value of Y."
     (format t "Y: ~5f" y)
+
+)
+
+"Defines the gather function."
+(defun gather ()
     
+    "Sets the values of X based on user input."
+    (format t "Enter the value of x: " )
+    (setq x(read))
+
+    "Sets the values of Y based on user input."
+    (format t "Enter the value of y: " )
+    (setq y(read))
+
+)
+
+"Defines the main function."
+(defun main ()
+
+    "Runs the gather function."
+    (gather)
+
+    "Runs the display function."
+    (display)
+    
+    "New line."
     (terpri)
-    "Finds their sum."
+
+    "Shows a sum."
     (format t "The sum of X and Y = ~5f" (sum x y))
 
 )
