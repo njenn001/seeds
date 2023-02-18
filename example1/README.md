@@ -19,7 +19,7 @@ A simple summation to help improve programming principles.
 Browse to the following direction: 
 
 ```
-C:\cygwin64\home\user\repos\seeds\example1
+C:\cygwin64\home\user\repos\seeds\example1\src
 ```
 
 From within the cygwin64 terminal, run the following command: 

@@ -19,7 +19,7 @@ A factorial function used to help hone programming principles.
 Browse to the following direction: 
 
 ```
-C:\cygwin64\home\user\repos\seeds\example2
+C:\cygwin64\home\user\repos\seeds\example2\src
 ```
 
 From within the cygwin64 terminal, run the following command: 
