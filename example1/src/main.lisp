@@ -36,8 +36,21 @@
 
 )
 
+"Defines the program info function."
+(defun programInfo ()
+
+    (terpri)
+    (format t "This program will find the sum of two numbers (x, y).")
+    (terpri)
+
+
+)
+
 "Defines the main function."
 (defun main ()
+
+    "Runs the program info function."
+    (programInfo)
 
     "Runs the gather function."
     (gather)
