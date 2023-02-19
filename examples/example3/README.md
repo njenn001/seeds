@@ -1,6 +1,6 @@
 # Example 2 
 
-A factorial function used to help hone programming principles. 
+A simple multiplication to help hone programming principles. 
 
 ## Principles
 
@@ -8,8 +8,9 @@ A factorial function used to help hone programming principles.
     - Documentation
     - Naming Conventions
     - Functions 
-    - Scoping
     - Variables
+    - Scoping
+    - Structures
     - Input / Output 
     - Execution
 
@@ -18,7 +19,7 @@ A factorial function used to help hone programming principles.
 Browse to the following direction: 
 
 ```
-C:\cygwin64\home\user\seeds\example2\src
+C:\cygwin64\home\user\seeds\examples\example3\src
 ```
 
 From within the cygwin64 terminal, run the following command: 

@@ -1,26 +1,24 @@
+# Example 2 
 
-# Example One 
+A factorial function used to help hone programming principles. 
 
-A simple summation to help improve programming principles. 
-
-## Principles 
+## Principles
 
     - Program Structure 
     - Documentation
     - Naming Conventions
-    - Functions 
+    - Functions
+    - Variables 
     - Scoping
-    - Variables
     - Input / Output 
     - Execution
-    
 
 ## Usage
 
 Browse to the following direction: 
 
 ```
-C:\cygwin64\home\user\seeds\example1\src
+C:\cygwin64\home\user\seeds\examples\example2\src
 ```
 
 From within the cygwin64 terminal, run the following command: 
@@ -28,5 +26,3 @@ From within the cygwin64 terminal, run the following command:
 ```
 clisp main.lisp
 ```
-
-
