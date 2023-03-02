@@ -1,5 +1,5 @@
 
-# Example One 
+# Example 
 
 A simple summation to help improve programming principles. 
 
@@ -20,7 +20,7 @@ A simple summation to help improve programming principles.
 Browse to the following direction: 
 
 ```
-C:\cygwin64\home\user\seeds\examples\example1\src
+C:\cygwin64\home\user\seeds\examples\example\src
 ```
 
 From within the cygwin64 terminal, run the following command: 

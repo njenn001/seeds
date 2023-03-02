@@ -12,7 +12,7 @@ All coding examples in this repository will be written in CL or "Common LISP". T
 
 folder for more information. 
 
-### Principles 
+## Principles 
 
     - Program Structure 
     - Documentation 
@@ -26,11 +26,11 @@ folder for more information.
     - Program Structure 
     - Execution  
 
-### Topics
+## Topics
 
     - Arithmetic 
 
-### Usage
+## Usage
 
 All code will be developed using Visual Studio code and the Cygwin64 terminal. 
 
