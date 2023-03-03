@@ -10,13 +10,13 @@ This example uses a simple output operation to prove programming principles.
     - Naming Conventions 
     - Functions 
     - Input / Output
-
+    
 ## Usage 
 
-From within this directory, run the following command: 
+From within the src\java directory, run the following command: 
 
 ```
-python main.py
+java main.java
 ```
 
 ## Acknowledgements
@@ -30,4 +30,3 @@ python main.py
         Seeds Academy
         seedsacademy.us@gmail.com
         Temple City, CA 
-

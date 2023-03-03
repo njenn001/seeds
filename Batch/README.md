@@ -1,24 +1,25 @@
-# Example One 
+# Batch 
 
-This example uses a simple output operation to prove programming principles. 
+This section will cover programming principles scripted using Batch. 
 
-## Principles
+## Principles 
 
     - Program Structure 
     - Documentation 
-    - Execution
     - Naming Conventions 
-    - Functions 
-    - Input / Output
+    - Functions
+    - Scoping
+    - Variables 
+    - Conditions
+    - Input / Output 
+    - Objects 
+    - Program Structure 
+    - Execution  
 
-## Usage 
+## Topics
 
-From within this directory, run the following command: 
-
-```
-python main.py
-```
-
+    - Arithmetic 
+    
 ## Acknowledgements
 
     Noah Jennings 
@@ -30,4 +31,4 @@ python main.py
         Seeds Academy
         seedsacademy.us@gmail.com
         Temple City, CA 
-
+    

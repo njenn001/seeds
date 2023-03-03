@@ -20,10 +20,14 @@ From within this directory, run the following command:
 python main.py
 ```
 
-### Acknowledgements
-
-Special thank you to those who contributed to the project. 
+## Acknowledgements
 
     Noah Jennings 
-        - njenn001@odu.edu
-        - Old Dominion University 
+        TC 
+        ntjennings1@gmail.com
+        Pomona, CA
+        
+    Seeds Academy 
+        Seeds Academy
+        seedsacademy.us@gmail.com
+        Temple City, CA 

@@ -1,22 +1,23 @@
-# Example One 
+# Example Two 
 
-This example uses a simple output operation to prove programming principles. 
+This example uses a simple arithmetic operation to prove programming principles. 
 
 ## Principles
 
     - Program Structure 
     - Documentation 
-    - Execution
     - Naming Conventions 
     - Functions 
+    - Variables 
     - Input / Output
-
+    - Execution 
+    
 ## Usage 
 
 From within this directory, run the following command: 
 
 ```
-python main.py
+two.bat
 ```
 
 ## Acknowledgements
@@ -30,4 +31,3 @@ python main.py
         Seeds Academy
         seedsacademy.us@gmail.com
         Temple City, CA 
-
