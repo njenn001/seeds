@@ -1,16 +1,10 @@
 # Seeds 
 
-Programming principles to be taught to students at Seeds Academy.
+A repository full of programming examples to be systematically taught to students at Seeds Academy.
 
 ## Implementation 
 
-All coding examples in this repository will be written in CL or "Common LISP". The documentation accompanying all code will help students duplicate segments for their own programming projects. Please see the 
-
-```
-/docs
-```
-
-folder for more information. 
+Examples and Projects will be implemented in different programming languages to facilitate comprehension. The documentation accompanying all code will help students duplicate segments for their own programming projects. All code will be developed with Visual Studio code and ran using various command-line iterpreters and integrated development environments (IDE).  
 
 ## Principles 
 
@@ -20,7 +14,7 @@ folder for more information.
     - Functions
     - Scoping
     - Variables 
-    - Condition Statements
+    - Conditions
     - Input / Output 
     - Objects 
     - Program Structure 
@@ -30,14 +24,15 @@ folder for more information.
 
     - Arithmetic 
 
-## Usage
+## Acknowledgements
 
-All code will be developed using Visual Studio code and the Cygwin64 terminal. 
+    Noah Jennings 
+        TC 
+        ntjennings1@gmail.com
+        Pomona, CA
+        
+    Seeds Academy 
+        Seeds Academy
+        seedsacademy.us@gmail.com
+        Temple City, CA 
 
-### Acknowledgements
-
-```
-Noah Jennings 
-Old Dominion University 
-njenn001@odu.edu
-```

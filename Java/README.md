@@ -1,6 +1,6 @@
-# Common LISP 
+# Java 
 
-This section will cover programming principles using Java. 
+This section will cover programming principles facilitated using Java. 
 
 ## Principles 
 
@@ -10,7 +10,7 @@ This section will cover programming principles using Java.
     - Functions
     - Scoping
     - Variables 
-    - Condition Statements
+    - Conditions
     - Input / Output 
     - Objects 
     - Program Structure 
@@ -19,9 +19,15 @@ This section will cover programming principles using Java.
 ## Topics
 
     - Arithmetic 
-    
-### Acknowledgements 
 
-Noah Jennings 
-    ntjennings1@gmail.com
-    
+## Acknowledgements
+
+    Noah Jennings 
+        TC 
+        ntjennings1@gmail.com
+        Pomona, CA
+        
+    Seeds Academy 
+        Seeds Academy
+        seedsacademy.us@gmail.com
+        Temple City, CA 

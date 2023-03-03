@@ -1,6 +1,6 @@
-# Common LISP 
+# Python
 
-This section will cover programming principles using Python. 
+This section will cover programming principles established using Python. 
 
 ## Principles 
 
@@ -10,7 +10,7 @@ This section will cover programming principles using Python.
     - Functions
     - Scoping
     - Variables 
-    - Condition Statements
+    - Conditions
     - Input / Output 
     - Objects 
     - Program Structure 
@@ -20,8 +20,15 @@ This section will cover programming principles using Python.
 
     - Arithmetic 
     
-### Acknowledgements 
+## Acknowledgements
 
-Noah Jennings 
-    ntjennings1@gmail.com
+    Noah Jennings 
+        TC 
+        ntjennings1@gmail.com
+        Pomona, CA
+        
+    Seeds Academy 
+        Seeds Academy
+        seedsacademy.us@gmail.com
+        Temple City, CA 
     

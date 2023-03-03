@@ -26,4 +26,16 @@ From within the cygwin64 terminal, run the following command:
 clisp main.lisp
 ```
 
+## Acknowledgements
+
+    Noah Jennings 
+        TC 
+        ntjennings1@gmail.com
+        Pomona, CA
+        
+    Seeds Academy 
+        Seeds Academy
+        seedsacademy.us@gmail.com
+        Temple City, CA 
+
 
