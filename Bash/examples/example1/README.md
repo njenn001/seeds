@@ -1,25 +1,22 @@
-# Example Four
+# Example One 
 
-This example uses a listing algorithm to prove programming principles. 
+This example uses a simple output operation to prove programming principles. 
 
 ## Principles
 
     - Program Structure 
     - Documentation 
+    - Execution
     - Naming Conventions 
     - Functions 
-    - Variables 
-    - Conditions
-    - Looping
     - Input / Output
-    - Execution
-    
+
 ## Usage 
 
 From within this directory, run the following command: 
 
 ```
-python main.py
+sh main.sh
 ```
 
 ## Acknowledgements
@@ -33,3 +30,4 @@ python main.py
         Seeds Academy
         seedsacademy.us@gmail.com
         Temple City, CA 
+

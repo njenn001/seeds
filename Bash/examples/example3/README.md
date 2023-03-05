@@ -1,16 +1,15 @@
-# Example Four
+# Example Three 
 
-This example uses a listing algorithm to prove programming principles. 
+This example uses a simple arithmetic operation to prove programming principles. 
 
 ## Principles
 
-    - Program Structure 
+    - Program Structure
     - Documentation 
     - Naming Conventions 
     - Functions 
     - Variables 
     - Conditions
-    - Looping
     - Input / Output
     - Execution
     
@@ -19,7 +18,7 @@ This example uses a listing algorithm to prove programming principles.
 From within this directory, run the following command: 
 
 ```
-python main.py
+sh main.sh
 ```
 
 ## Acknowledgements

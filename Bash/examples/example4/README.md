@@ -19,17 +19,13 @@ This example uses a listing algorithm to prove programming principles.
 From within this directory, run the following command: 
 
 ```
-python main.py
+sh main.sh
 ```
 
-## Acknowledgements
+### Acknowledgements
+
+Special thank you to those who contributed to the project. 
 
     Noah Jennings 
-        TC 
-        ntjennings1@gmail.com
-        Pomona, CA
-        
-    Seeds Academy 
-        Seeds Academy
-        seedsacademy.us@gmail.com
-        Temple City, CA 
+        - njenn001@odu.edu
+        - Old Dominion University 

@@ -1,27 +1,25 @@
-# Example Four
+# Bash
 
-This example uses a listing algorithm to prove programming principles. 
+This section will cover programming principles founded in Bash scripts. 
 
-## Principles
+## Principles 
 
     - Program Structure 
     - Documentation 
     - Naming Conventions 
-    - Functions 
+    - Functions
+    - Scoping
     - Variables 
     - Conditions
-    - Looping
-    - Input / Output
-    - Execution
+    - Input / Output 
+    - Objects 
+    - Program Structure 
+    - Execution  
+
+## Topics
+
+    - Arithmetic 
     
-## Usage 
-
-From within this directory, run the following command: 
-
-```
-python main.py
-```
-
 ## Acknowledgements
 
     Noah Jennings 
@@ -33,3 +31,4 @@ python main.py
         Seeds Academy
         seedsacademy.us@gmail.com
         Temple City, CA 
+    
