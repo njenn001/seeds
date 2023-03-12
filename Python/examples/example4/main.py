@@ -51,9 +51,5 @@ def main():
     print(numbers)
 
 
-""" Runs the main function. 
-
-@returns null 
-"""
-
+""" Runs the main function. """
 main()

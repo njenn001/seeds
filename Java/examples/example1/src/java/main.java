@@ -5,11 +5,13 @@ package Java.examples.example1.src.java;
  * 
  * @author Noah Jennings
  * @author ntjennings1@odu.edu
- * @since 0.2.4
+ * @since 0.4.0
  * 
  */
 class Main{
     public static void main(String[] args) {
+        
+        /** Simple output. */
         System.out.println("Hello world"); 
     }
 

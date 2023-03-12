@@ -12,15 +12,9 @@ A simple output operation to help prove programming principles.
     - Execution
     
 
-## Usage
+## Usage 
 
-Browse to the following direction: 
-
-```
-C:\cygwin64\home\user\seeds\examples\example1\src
-```
-
-From within the cygwin64 terminal, run the following command: 
+Using Cygwin64 From within this directory, run the following command: 
 
 ```
 clisp main.lisp

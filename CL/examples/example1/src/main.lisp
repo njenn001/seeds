@@ -1,7 +1,7 @@
 "Defines the main function."
 (defun main()
 
-    "Prints 'Hello World'"
+    "Simple Output"
     (format t "Hello World")
 
 )

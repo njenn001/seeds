@@ -5,19 +5,23 @@ package Java.examples.example3.src.java;
  * 
  * @author Noah Jennings
  * @author ntjennings1@odu.edu
- * @since 0.2.4
+ * @since 0.4.0
  * 
  */
 class Main{
     public static void main(String[] args) {
         
+        /** The x and y variables. */
         int x = 13; 
         int y = 14; 
 
+        /** Their sum. */
         int sum = x + y;
         
+        /** Condition to check if the sum is even or odd. */
         if (sum % 2 == 0){
 
+            /** Simple output. */
             System.out.println("Their sum is even.");
             System.out.printf("The sum equals: ");
             System.out.println(sum); 
@@ -25,6 +29,7 @@ class Main{
         }
         else{
 
+            /** Simple output. */
             System.out.println("Their sum is odd.");
             System.out.printf("The sum equals: ");
             System.out.println(sum); 

@@ -13,8 +13,7 @@ def main():
     """
     sum = x + y 
 
-    """ Output. 
-    """
+    """ Condition checks if the sum is even or odd. """
     if (sum % 2 == 0):
         print ("The sum is even.")
         print ("The sum equals: ", sum)
@@ -23,9 +22,5 @@ def main():
         print ("The sum equals: ", sum)
 
 
-""" Runs the main function. 
-
-@returns null 
-"""
-
+""" Runs the main function. """
 main()

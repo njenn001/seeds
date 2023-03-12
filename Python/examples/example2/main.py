@@ -17,9 +17,5 @@ def main():
     """
     print ("The sum equals: ", sum)
 
-""" Runs the main function. 
-
-@returns null 
-"""
-
+""" Runs the main function. """
 main()
