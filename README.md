@@ -1,6 +1,6 @@
 # Seeds 
 
-A repository full of programming examples to be systematically taught to students at Seeds Academy.
+A repository full of programming examples to be systematically taught to students in a STEM Academy.
 
 ## Implementation 
 
@@ -31,8 +31,6 @@ Examples and Projects will be implemented in different programming languages to 
         ntjennings1@gmail.com
         Pomona, CA
         
-    Seeds Academy 
-        Seeds Academy
-        seedsacademy.us@gmail.com
-        Temple City, CA 
-
+    TC 
+        th3orycc@gmail.com
+        Virginia Beach, VA

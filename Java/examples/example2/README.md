@@ -27,7 +27,7 @@ java main.java
         ntjennings1@gmail.com
         Pomona, CA
         
-    Seeds Academy 
-        Seeds Academy
-        seedsacademy.us@gmail.com
-        Temple City, CA 
+    TC 
+        th3orycc@gmail.com
+        Virginia Beach, VA
+

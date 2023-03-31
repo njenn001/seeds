@@ -30,8 +30,8 @@ Windows users should use the executable provided, or run the following command f
         ntjennings1@gmail.com
         Pomona, CA
         
-    Seeds Academy 
-        Seeds Academy
-        seedsacademy.us@gmail.com
-        Temple City, CA 
+    TC 
+        th3orycc@gmail.com
+        Virginia Beach, VA
+ 
 

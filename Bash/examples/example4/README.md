@@ -22,10 +22,14 @@ From within this directory, run the following command:
 sh main.sh
 ```
 
-### Acknowledgements
-
-Special thank you to those who contributed to the project. 
+## Acknowledgements
 
     Noah Jennings 
-        - njenn001@odu.edu
-        - Old Dominion University 
+        TC 
+        ntjennings1@gmail.com
+        Pomona, CA
+        
+    TC 
+        th3orycc@gmail.com
+        Virginia Beach, VA
+

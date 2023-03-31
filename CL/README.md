@@ -27,8 +27,6 @@ This section will cover programming principles developed using Common LISP.
         ntjennings1@gmail.com
         Pomona, CA
         
-    Seeds Academy 
-        Seeds Academy
-        seedsacademy.us@gmail.com
-        Temple City, CA 
-    
+    TC 
+        th3orycc@gmail.com
+        Virginia Beach, VA
