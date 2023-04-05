@@ -6,8 +6,8 @@ def main():
 
     """ Input variables x, y.
     """
-    x = float(input("Enter a value for x: "))
-    y = float(input("Enter a value for y: "))
+    x = 11
+    y = 9
 
     """ Their sum.  
     """

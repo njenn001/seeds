@@ -1,20 +1,24 @@
 # Python
 
-This section will cover programming principles established using Python. 
+This section will cover object oriented programming principles established using Python. 
 
 ## Principles 
 
-    - Program Structure 
+    - Program Structure
+    - Packages / Imports
+    - Input / Output
+    - Execution   
     - Documentation 
     - Naming Conventions 
     - Functions
     - Scoping
     - Variables 
     - Conditions
-    - Input / Output 
+    - Looping  
     - Objects 
-    - Program Structure 
-    - Execution  
+    - Encapsulation 
+    - Abstraction 
+    - Inheritance 
 
 ## Topics
 

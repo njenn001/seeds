@@ -8,17 +8,21 @@ Examples and Projects will be implemented in different programming languages to 
 
 ## Principles 
 
-    - Program Structure 
+    - Program Structure
+    - Packages / Imports
+    - Input / Output
+    - Execution   
     - Documentation 
     - Naming Conventions 
     - Functions
     - Scoping
     - Variables 
     - Conditions
-    - Input / Output 
+    - Looping  
     - Objects 
-    - Program Structure 
-    - Execution  
+    - Encapsulation 
+    - Abstraction 
+    - Inheritance 
 
 ## Topics
 
