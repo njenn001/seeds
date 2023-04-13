@@ -1,8 +1,8 @@
-# Python
+# Requirements
 
-This section will cover object oriented programming principles established using Python. 
+This example uses a import to prove programming principles. Imports a class that connects to a prebuilt Python package, os. We will use it to download online packages. 
 
-## Principles 
+## Principles
 
     - Program Structure
     - Packages / Imports
@@ -11,20 +11,17 @@ This section will cover object oriented programming principles established using
     - Documentation 
     - Naming Conventions 
     - Functions
-    - Scoping
-    - Variables 
-    - Conditions
-    - Looping  
-    - Objects 
-    - Encapsulation 
-    - Abstraction 
-    - Inheritance 
-    - Parallelism 
+    - Error Handling 
 
-## Topics
-
-    - Arithmetic 
     
+## Usage 
+
+From within the src directory, run the following command: 
+
+```
+python main.py
+```
+
 ## Acknowledgements
 
     Noah Jennings 
