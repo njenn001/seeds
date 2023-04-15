@@ -1,4 +1,4 @@
-package Java.examples.example3.src.java;
+package Java.examples.evenOdd.src.java;
 
 /**
  * Represents the main function of example 3.

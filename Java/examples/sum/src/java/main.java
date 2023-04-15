@@ -1,4 +1,4 @@
-package Java.examples.example2.src.java;
+package Java.examples.sum.src.java;
 
 /**
  * Represents the main function of example 2.

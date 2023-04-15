@@ -1,4 +1,4 @@
-package Java.examples.example1.src.java;
+package Java.examples.helloWorld.src.java;
 
 /**
  * Represents the main function of example 1.
