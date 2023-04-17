@@ -15,9 +15,8 @@ This section will cover object oriented programming principles established using
     - Variables 
     - Conditions
     - Looping  
-    - Objects 
-    - Encapsulation 
     - Abstraction 
+    - Encapsulation 
     - Inheritance 
     - Parallelism 
 

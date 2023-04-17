@@ -4,17 +4,21 @@ This section will cover programming principles founded in Bash scripts.
 
 ## Principles 
 
-    - Program Structure 
+    - Program Structure
+    - Packages / Imports
+    - Input / Output
+    - Execution   
     - Documentation 
     - Naming Conventions 
     - Functions
     - Scoping
     - Variables 
     - Conditions
-    - Input / Output 
-    - Objects 
-    - Program Structure 
-    - Execution  
+    - Looping  
+    - Abstraction 
+    - Encapsulation 
+    - Inheritance 
+    - Parallelism  
 
 ## Topics
 

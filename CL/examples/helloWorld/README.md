@@ -1,22 +1,22 @@
-# Hello World 
+# Hello World
 
-This example uses a simple output operation to prove programming principles. 
+A simple output operation to help prove programming principles. 
 
-## Principles
+## Principles 
 
     - Program Structure 
-    - Documentation 
-    - Execution
-    - Naming Conventions 
+    - Documentation
+    - Naming Conventions
     - Functions 
-    - Input / Output
-    
+    - Input / Output 
+    - Execution    
+
 ## Usage 
 
 From within the src directory, run the following command: 
 
 ```
-main.bat
+clisp main.lisp
 ```
 
 ## Acknowledgements

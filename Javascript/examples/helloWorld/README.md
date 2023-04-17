@@ -10,14 +10,10 @@ This example uses a simple output operation to prove programming principles.
     - Naming Conventions 
     - Functions 
     - Input / Output
-    
+
 ## Usage 
 
-From within the src directory, run the following command: 
-
-```
-main.bat
-```
+From within the Javascript directory, open the index.html in the browser. From here, you can run each of the examples. 
 
 ## Acknowledgements
 

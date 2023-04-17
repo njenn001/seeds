@@ -1,22 +1,23 @@
-# Hello World 
+# Summation
 
-This example uses a simple output operation to prove programming principles. 
+This example uses a simple arithmetic operation to prove programming principles. 
 
 ## Principles
 
     - Program Structure 
     - Documentation 
-    - Execution
     - Naming Conventions 
     - Functions 
+    - Variables 
     - Input / Output
+    - Execution 
     
 ## Usage 
 
 From within the src directory, run the following command: 
 
 ```
-main.bat
+sh main.sh
 ```
 
 ## Acknowledgements

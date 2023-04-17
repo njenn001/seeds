@@ -1,22 +1,25 @@
-# Hello World 
+# Listing
 
-This example uses a simple output operation to prove programming principles. 
+This example uses a listing algorithm to prove programming principles. 
 
 ## Principles
 
     - Program Structure 
     - Documentation 
-    - Execution
     - Naming Conventions 
-    - Functions 
+    - Functions
+    - Scoping
+    - Variables 
+    - Looping  
     - Input / Output
+    - Execution
     
 ## Usage 
 
-From within the src directory, run the following command: 
+From within this directory, run the following command: 
 
 ```
-main.bat
+sh main.sh
 ```
 
 ## Acknowledgements
@@ -29,3 +32,4 @@ main.bat
     TC 
         th3orycc@gmail.com
         Virginia Beach, VA
+

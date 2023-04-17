@@ -1,23 +1,21 @@
-# Hello World 
+# Even / Odd
 
-This example uses a simple output operation to prove programming principles. 
+This example uses a simple arithmetic operation to prove programming principles. 
 
 ## Principles
 
-    - Program Structure 
+    - Program Structure
     - Documentation 
-    - Execution
     - Naming Conventions 
     - Functions 
+    - Variables 
+    - Conditions
     - Input / Output
+    - Execution
     
 ## Usage 
 
-From within the src directory, run the following command: 
-
-```
-main.bat
-```
+From within the Javascript directory, open the index.html in the browser. From here, you can run each of the examples. 
 
 ## Acknowledgements
 
@@ -29,3 +27,4 @@ main.bat
     TC 
         th3orycc@gmail.com
         Virginia Beach, VA
+ 

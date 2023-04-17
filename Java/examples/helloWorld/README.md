@@ -1,4 +1,4 @@
-# Example One 
+# Hello World
 
 This example uses a simple output operation to prove programming principles. 
 

@@ -59,31 +59,31 @@
   This is the design for the buttons. 
 */
 .button {
-    border: none;
-    color: white;
-    height: 75px; 
-    width: 300px;
-    transition-duration: 0.4s;
-    cursor: pointer;
-    font-size: 24px;
-    font-family: 'Courier New', Courier, monospace;
-  }
-  
-  /* 
-    This is the design for the first button. 
-  */
-  .button1 {
-    background-color: transparent;
-    color: black; 
-    border: 2px solid rgb(126, 140, 154);
-  }
-  
-  /* 
-    This is the design for the first button's
-    hover effect. 
-  */
-  .button1:hover {
-    background-color: rgb(40, 159, 198);
-    color: white;
-  }
+  border: none;
+  color: white;
+  height: 75px; 
+  width: 300px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  font-size: 24px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+/* 
+  This is the design for the first button. 
+*/
+.button1 {
+  background-color: transparent;
+  color: black; 
+  border: 2px solid rgb(126, 140, 154);
+}
+
+/* 
+  This is the design for the first button's
+  hover effect. 
+*/
+.button1:hover {
+  background-color: rgb(40, 159, 198);
+  color: white;
+}
   

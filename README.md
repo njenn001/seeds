@@ -19,10 +19,10 @@ Examples and Projects will be implemented in different programming languages to 
     - Variables 
     - Conditions
     - Looping  
-    - Objects 
-    - Encapsulation 
     - Abstraction 
+    - Encapsulation 
     - Inheritance 
+    - Parallelism 
 
 ## Topics
 

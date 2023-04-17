@@ -1,22 +1,24 @@
-# Hello World 
+# Even / Odd
 
-This example uses a simple output operation to prove programming principles. 
+A simple arithmetic operation to help prove programming principles. 
 
-## Principles
+## Principles 
 
     - Program Structure 
-    - Documentation 
-    - Execution
-    - Naming Conventions 
+    - Documentation
+    - Naming Conventions
     - Functions 
-    - Input / Output
+    - Variables 
+    - Conditions
+    - Input / Output 
+    - Execution
     
 ## Usage 
 
 From within the src directory, run the following command: 
 
 ```
-main.bat
+clisp main.lisp
 ```
 
 ## Acknowledgements
@@ -29,3 +31,5 @@ main.bat
     TC 
         th3orycc@gmail.com
         Virginia Beach, VA
+
+

@@ -1,4 +1,4 @@
-# Example Three 
+# Even / Odd
 
 This example uses a simple arithmetic operation to prove programming principles. 
 

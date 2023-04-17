@@ -1,23 +1,24 @@
-# Summation 
+# Even / Odd 
 
 This example uses a simple arithmetic operation to prove programming principles. 
 
 ## Principles
 
-    - Program Structure 
+    - Program Structure
     - Documentation 
     - Naming Conventions 
     - Functions 
     - Variables 
+    - Conditions
     - Input / Output
-    - Execution 
-    
+    - Execution
+
 ## Usage 
 
-From within the src\java directory, run the following command: 
-
+From within the src directory, compile the code into it's executable form and run one of the following scripts to execute the code (machine dependent): 
 ```
-java main.java
+./main
+.\main.exe 
 ```
 
 ## Acknowledgements

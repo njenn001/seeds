@@ -1,4 +1,4 @@
-# Hello World 
+# Hello World
 
 This example uses a simple output operation to prove programming principles. 
 
@@ -10,13 +10,13 @@ This example uses a simple output operation to prove programming principles.
     - Naming Conventions 
     - Functions 
     - Input / Output
-    
+
 ## Usage 
 
-From within the src directory, run the following command: 
-
+From within the src directory, compile the code into it's executable form and run one of the following scripts to execute the code (machine dependent): 
 ```
-main.bat
+./main
+.\main.exe 
 ```
 
 ## Acknowledgements
@@ -29,3 +29,5 @@ main.bat
     TC 
         th3orycc@gmail.com
         Virginia Beach, VA
+ 
+

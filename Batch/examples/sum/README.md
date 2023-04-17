@@ -1,4 +1,4 @@
-# Example Two 
+# Summation
 
 This example uses a simple arithmetic operation to prove programming principles. 
 
@@ -14,10 +14,10 @@ This example uses a simple arithmetic operation to prove programming principles.
     
 ## Usage 
 
-From within this directory, run the following command: 
+From within the src directory, run the following command: 
 
 ```
-two.bat
+main.bat
 ```
 
 ## Acknowledgements

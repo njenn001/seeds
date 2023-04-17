@@ -1,4 +1,4 @@
-# Example Three
+# Even / Odd 
 
 This example uses a arithmetic output operation to prove programming principles. 
 
@@ -15,10 +15,10 @@ This example uses a arithmetic output operation to prove programming principles.
     
 ## Usage 
 
-From within this directory, run the following command: 
+From within the src directory, run the following command: 
 
 ```
-three.bat
+main.bat
 ```
 
 ## Acknowledgements
